@@ -1,2 +1,2 @@
 # Kodluyoruzilkrepo
-Kodluyoruz Eğitimi Kapsamında açtığım ilk Repo
+Kodluyoruz Eğitimi Kapsamında Açtığım ilk Repo
